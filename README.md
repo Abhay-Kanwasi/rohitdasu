@@ -3,9 +3,9 @@
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Rohit](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-dasu-930a43192/)](https://www.linkedin.com/in/rohit-dasu-930a43192/)
+[![Linkedin: Rohit](https://img.shields.io/badge/-rohit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohit-dasu-930a43192/)](https://www.linkedin.com/in/rohit-dasu-930a43192/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohit-dasu.web.app/)](https://rohit-dasu.web.app/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+![](https://visitor-badge.glitch.me/badge?page_id=rohit.rohit)
 
 👇 Hit in your console or terminal to connect with me.
 
