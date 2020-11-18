@@ -13,18 +13,18 @@
 const Rohit = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript"],
-    askMeAbout: ["web dev", "tech", "app dev", "server-side-coding"],
+    askMeAbout: ["Web development", "Tech", "App Dev", "Server-Side-Coding"],
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
             js: ["Angular", "React"],
-            css: ["materialize", "bootstrap"]
+            css: ["Materialize", "Bootstrap"]
         },
         backEnd: {
             js: ["node", "express"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
-        databases: ["mongo", "MySql"],
+        databases: ["MongoDB", "MySql"],
         misc: ["Firebase", "Socket.IO", "GraphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
