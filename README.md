@@ -7,12 +7,6 @@
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://rohit-dasu.web.app/)](https://rohit-dasu.web.app/)
 ![](https://visitor-badge.glitch.me/badge?page_id=rohit.rohit)
 
-👇 Hit in your console or terminal to connect with me.
-
-```bash
-npx Rohit
-```
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
