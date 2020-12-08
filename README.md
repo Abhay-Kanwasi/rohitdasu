@@ -28,7 +28,7 @@ var Rohit = {
         misc: ["Firebase", "Socket.IO", "GraphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
-    currentFocus: "Backend Development",
+    currentFocus: "Full Stack Development",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
