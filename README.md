@@ -12,7 +12,7 @@
 ```javascript
 var Rohit = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript"],
+    code: ["Python", "Javascript", "Typescript"],
     askMeAbout: ["Web development", "Tech", "App Dev", "Server-Side-Coding"],
     technologies: {
         mobileApp: ["Android App"],
@@ -21,7 +21,7 @@ var Rohit = {
             css: ["Materialize", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"]
+            js: ["node", "express", "flask", "django"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
         databases: ["MongoDB", "MySql"],
