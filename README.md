@@ -21,11 +21,12 @@ var Rohit = {
             css: ["Materialize", "Bootstrap"]
         },
         backEnd: {
-            js: ["node", "express", "flask", "django"]
+            js: ["node", "express"],
+            python: ["flask", "django"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
         databases: ["MongoDB", "MySql"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
+        extra: ["Firebase", "Socket.IO", "GraphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
     currentFocus: "Full Stack Development",
