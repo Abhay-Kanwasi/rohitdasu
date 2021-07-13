@@ -20,10 +20,10 @@ var Rohit = {
         },
         backEnd: {
             js: ["node", "express"],
-            python: ["flask", "django"]
+            python: ["flask"]
         },
         devOps: ["AWS", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
-        databases: ["MongoDB", "MySql"],
+        databases: ["MongoDB", "Firebase Firestore", "Dgraph"],
         extra: ["Firebase", "Socket.IO", "GraphQL"]
     },
     architecture: ["Serverless Architecture", "Progressive Web Applications", "Single Page Applications"],
