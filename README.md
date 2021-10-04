@@ -15,7 +15,7 @@ var Rohit = {
     technologies: {
         mobileApp: ["Android App"],
         frontEnd: {
-            js: ["React", "Angular", "React", "Vue"],
+            js: ["React", "Angular", "Vue"],
             css: ["Materialize", "Bootstrap"]
         },
         backEnd: {
