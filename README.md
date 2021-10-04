@@ -22,7 +22,7 @@ var Rohit = {
             js: ["node", "express"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
+        cloud: ["AWS EC2 & Lambda", "Docker🐳", "Nginx", "Firebase Hosting", "Heroku"],
         databases: ["MongoDB", "Firebase Firestore", "Dgraph"],
         extra: ["Firebase", "Socket.IO", "GraphQL"]
     },
