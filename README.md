@@ -1,6 +1,6 @@
-<h2>नमस्ते (Namaste)🙏🏻, I'm Rohit! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, I'm Rohit!</h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Engineer
 </em></p>
 
 ### ![](https://visitor-badge.glitch.me/badge?page_id=rohit.rohit)
