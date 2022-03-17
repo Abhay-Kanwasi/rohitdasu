@@ -31,6 +31,7 @@ var Rohit = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdasu)](https://github.com/rohitdasu/github-readme-stats)
 
 ![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohitdasu&theme=dark&show_icons=true)
 
