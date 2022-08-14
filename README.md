@@ -28,9 +28,6 @@ My name is Rohit Dasu, I'm a Software Engineer at [Tivix, Inc.](https://tivix.co
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-<br><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdasu&hide=TeX&layout=compact)
-<br><br><br>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rohitdasu&count_private=true&show_icons=true&include_all_commits=true)
-<br><br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdasu&hide=TeX&layout=compact)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitdasu)
