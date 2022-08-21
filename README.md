@@ -1,4 +1,4 @@
-## Welcome to my Profile 🙏
+## Welcome to my Profile 🙏 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitdasu)
 
 My name is Rohit Dasu, I'm a Software Engineer at [Tivix, Inc.](https://tivix.com/). 
 
@@ -29,5 +29,5 @@ My name is Rohit Dasu, I'm a Software Engineer at [Tivix, Inc.](https://tivix.co
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rohitdasu&count_private=true&show_icons=true&include_all_commits=true&hide=stars&theme=gotham&layout=compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitdasu&hide=TeX&layout=compact&theme=gotham)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitdasu)
+
+
