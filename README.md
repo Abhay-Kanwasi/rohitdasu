@@ -1,4 +1,4 @@
-## Welcome to my Profile 🙏 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitdasu)
+## Welcome to my Profile ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rohitdasu)
 
 My name is Rohit Dasu, I'm a Software Engineer at [Tivix, Inc.](https://tivix.com/). 
 
@@ -8,7 +8,7 @@ My name is Rohit Dasu, I'm a Software Engineer at [Tivix, Inc.](https://tivix.co
 [![Instagram Badge](https://img.shields.io/badge/-ro.h.i.t_._-red?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/ro.h.i.t_._/)](https://instagram.com/ro.h.i.t_._)
 [![Gmail Badge](https://img.shields.io/badge/-dasurohit123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dasurohit123@gmail.com)](mailto:dasurohit123@gmail.com)
 
-## ⚡ Technologies
+## Technologies
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vuejs](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js)
